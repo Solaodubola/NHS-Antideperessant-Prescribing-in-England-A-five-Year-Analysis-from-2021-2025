@@ -36,17 +36,17 @@ These findings show that long-term trends are more informative than focusing on 
 ## Key Recommendations
 Based on the findings, here are a few practical recommendations:
 
-## Invest more in mental health support. Antidepressant prescribing has continued to rise over the past five years, suggesting that more people are seeking treatment. Increasing access to counselling, talking therapies, and early mental health support could help meet this growing demand.
+Invest more in mental health support. Antidepressant prescribing has continued to rise over the past five years, suggesting that more people are seeking treatment. Increasing access to counselling, talking therapies, and early mental health support could help meet this growing demand.
 
-## Look into why prescribing differs across regions. Some parts of England prescribe far more antidepressants than others, while costs also vary. Understanding the reasons behind these differences can help the NHS provide more consistent and equitable care.
+Look into why prescribing differs across regions. Some parts of England prescribe far more antidepressants than others, while costs also vary. Understanding the reasons behind these differences can help the NHS provide more consistent and equitable care.
 
-## Keep an eye on high-cost medicines. Some antidepressants, such as Venlafaxine, account for a much higher share of NHS spending than their prescribing volume suggests. Regular reviews can help ensure these medicines are prescribed appropriately and cost-effectively.
+Keep an eye on high-cost medicines. Some antidepressants, such as Venlafaxine, account for a much higher share of NHS spending than their prescribing volume suggests. Regular reviews can help ensure these medicines are prescribed appropriately and cost-effectively.
 
-## Continue using cost-saving prescribing strategies. NHS spending remained lower after 2021 even though more antidepressants were prescribed. Continuing to promote the use of effective generic medicines where appropriate can help keep healthcare costs under control.
+Continue using cost-saving prescribing strategies. NHS spending remained lower after 2021 even though more antidepressants were prescribed. Continuing to promote the use of effective generic medicines where appropriate can help keep healthcare costs under control.
 
-## Plan ahead for increasing demand. The steady rise in prescribing shows that demand for mental health services is unlikely to slow down. Using prescribing data to guide workforce planning and service provision will help the NHS prepare for future needs.
+Plan ahead for increasing demand. The steady rise in prescribing shows that demand for mental health services is unlikely to slow down. Using prescribing data to guide workforce planning and service provision will help the NHS prepare for future needs.
 
-## Carry out further research. This analysis shows what changed, but not why. Future studies that include factors such as age, gender, deprivation, and mental health diagnoses could provide a better understanding of the trends and support more informed decision-making.
+Carry out further research. This analysis shows what changed, but not why. Future studies that include factors such as age, gender, deprivation, and mental health diagnoses could provide a better understanding of the trends and support more informed decision-making.
 
 
 
